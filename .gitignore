@@ -1,0 +1,7 @@
+.vscode
+.env
+node_modules
+.ipynb_checkpoints
+Qiskit/qiskit_tutorial_es_v4.ipynb
+Quantum Machine Learning (Qiskit)
+Repaso QC INAOE (Qiskit)
